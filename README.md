@@ -25,6 +25,6 @@ Welcome to the **iBoooks** project repository! This application provides a simpl
 - **JavaScript** Enhance user interactivity and experience.
 - **SQL Serve:** Store book information, user data, and order history.
 
-## [Project link](iboookstest.azurewebsites.net)
+## [Project link](www.iboookstest.azurewebsites.net)
 
 - Currently offline

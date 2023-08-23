@@ -1,6 +1,6 @@
 # iBoooks Project
 
-![book.jpg](readmeimages\book.jpg)
+![book.jpg](readmeimages/book.jpg)
 
 ## Description
 

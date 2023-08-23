@@ -27,4 +27,4 @@ Welcome to the **iBoooks** project repository! This application provides a simpl
 
 ## [Project link](iboookstest.azurewebsites.net)
 
-
+- Currently offline

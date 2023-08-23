@@ -23,4 +23,6 @@ Welcome to the **iBoooks** project repository! This application provides a simpl
 - **ASP.NET MVC:** Architecture for building web applications.
 - **HTML/CSS:** Frontend design and structure.
 - **JavaScript** Enhance user interactivity and experience.
-- **SQL Serve:** Store book information, user data, and order history.
+- **SQL Server:** Store book information, user data, and order history.
+
+## [Project link](https://iboookstest.azurewebsites.net/)
